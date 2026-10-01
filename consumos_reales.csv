@@ -1,0 +1,7 @@
+id_edificio,anio,mes,categoria,consumo_real_kwh
+1,2026,1,Heating,14500
+1,2026,1,Cooling,0
+1,2026,1,Interior Lighting,5800
+1,2026,1,Interior Equipment,3900
+1,2026,1,Fans,2500
+1,2026,1,Pumps,900

@@ -1,0 +1,16 @@
+﻿Tipologia,Electricidad [kWh],Gas Natural [kWh]
+Heating,13898.77,0.00
+Cooling,954.18,0.00
+Interior Lighting,13151.51,0.00
+Exterior Lighting,660.69,0.00
+Interior Equipment,19398.70,0.00
+Exterior Equipment,0.00,0.00
+Fans,4876.21,0.00
+Pumps,1078.68,0.00
+Heat Rejection,0.00,0.00
+Humidification,0.00,0.00
+Heat Recovery,7.18,0.00
+Water Systems,0.00,13352.55
+Refrigeration,0.00,0.00
+Generators,0.00,0.00
+Total mes,54025.92,13352.55

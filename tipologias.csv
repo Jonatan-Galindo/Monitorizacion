@@ -1,0 +1,15 @@
+codigo,categoria,grupo
+HEATING,Heating,Climatizacion
+COOLING,Cooling,Climatizacion
+INT_LIGHT,Interior Lighting,Iluminacion
+EXT_LIGHT,Exterior Lighting,Iluminacion
+INT_EQUIP,Interior Equipment,Equipos
+EXT_EQUIP,Exterior Equipment,Equipos
+FANS,Fans,HVAC Auxiliar
+PUMPS,Pumps,HVAC Auxiliar
+HEAT_REJ,Heat Rejection,HVAC Auxiliar
+HUMID,Humidification,HVAC Auxiliar
+HEAT_REC,Heat Recovery,HVAC Auxiliar
+WATER,Water Systems,Agua
+REFRIG,Refrigeration,Refrigeracion Especifica
+GEN,Generators,Generacion

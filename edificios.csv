@@ -1,0 +1,3 @@
+id_edificio,nombre,ubicacion,uso,superficie_m2,sistema_climatizacion,observaciones
+1,Edificio Demo,Madrid,Oficinas,2500.0,Bomba de calor,Edificio de prueba
+3,PARC CENTRAL BILBAO,Carrer Bilbao 128 (BARCELONA),Oficinas,21000.0,DISTRICLIMA,

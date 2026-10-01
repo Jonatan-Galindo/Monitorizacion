@@ -1,0 +1,7 @@
+id_edificio,anio,mes,categoria,consumo_simulado_kwh
+1,2026,1,Heating,12000
+1,2026,1,Cooling,0
+1,2026,1,Interior Lighting,5400
+1,2026,1,Interior Equipment,4200
+1,2026,1,Fans,2100
+1,2026,1,Pumps,850
